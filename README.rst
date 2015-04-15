@@ -63,7 +63,7 @@ Remove Existing Images
 ----------------------
 5) View Your Handiwork
 ----------------------
-- Open http://localhost:5000 to see the Nginx welcome page
+- Open http://localhost:6060 to see the Nginx welcome page
 
 ----
 
